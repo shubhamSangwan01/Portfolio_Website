@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Integrated Health Web App",
+    "desc": "Web app that predicts possible diseases a user may have based on the symptoms. This includes modules of heart disease prediction, lung cancer prediction and Skin Disease prediction developed using Supervised Machine Learning.",
+    "image": "IntegratedHealthApp",
+    "category": "ml",
+    "links": {
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+  {
+    "name": "Blue Blaze FC Official",
+    "desc": "Developed a customized website for Blue Blaze FC with team roaster and club application features and an integrated chatbot that uses Natural Language Processing. Implemented parallax scrolling and transformation effects.",
+    "image": "BBFCOfficial",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/jigar-sable/sppu-prep-android"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
+    "image": "portfolioWebsite",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/jigar-sable/sppu-prep-android"
+    }
+  }
+]
